@@ -1,0 +1,14 @@
+name: myple_lint
+version: 0.1.0
+description: Lint rules for Dart and Flutter used internally at myple.
+repository: https://github.com/myple/lint
+issue_tracker: https://github.com/myple/lint/issues
+homepage: https://github.com/myple/lint
+documentation: https://github.com/myple/lint
+
+environment:
+  sdk: ">=2.12.0-0 <3.0.0"
+
+# dependencies:
+# dev_dependencies:
+# NOTE: Code is not allowed in this package. Do not add dependencies.

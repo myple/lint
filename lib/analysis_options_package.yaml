@@ -1,0 +1,13 @@
+##
+# Lint rules to be used for packages, which provide a dart API for developers
+##
+
+include: package:lint/analysis_options.yaml
+
+# Lint rules and documentation, see http://dart-lang.github.io/linter/lints
+linter:
+  rules:
+    - literal_only_boolean_expressions
+    - package_api_docs
+    # - public_member_api_docs
+    - use_key_in_widget_constructors
