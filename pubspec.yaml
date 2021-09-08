@@ -1,5 +1,5 @@
 name: myple_lint
-version: 0.1.0
+version: 0.1.0-dev.1
 description: Lint rules for Dart and Flutter used internally at myple.
 repository: https://github.com/myple/lint
 issue_tracker: https://github.com/myple/lint/issues
