@@ -1,9 +1,9 @@
 # myple lint
 
 
-[![Very Good Ventures](https://raw.githubusercontent.com/VeryGoodOpenSource/very_good_analysis/main/assets/vgv_logo.png)][https://myple.io]
+[![Very Good Ventures](https://raw.githubusercontent.com/VeryGoodOpenSource/very_good_analysis/main/assets/vgv_logo.png)](https://myple.io)
 
-Developed with ❤️ by [myple][https://myple.io]
+Developed with ❤️ by [myple](https://myple.io)
 
 ---
 
@@ -11,9 +11,9 @@ Developed with ❤️ by [myple][https://myple.io]
 ![APM](https://img.shields.io/apm/l/lint?style=for-the-badge)
 
 
-This package provides lint rules for Dart and Flutter which are used at [myple][https://myple.io]. For more information, see the [complete list of options][https://github.com/myple/lint/blob/main/analysis_options.yaml].
+This package provides lint rules for Dart and Flutter which are used at [myple](https://myple.io). For more information, see the [complete list of options](https://github.com/myple/lint/blob/main/analysis_options.yaml).
 
-**Note**: This package was heavily inspired by [pedantic][https://github.com/dart-lang/pedantic].
+**Note**: This package was heavily inspired by [pedantic](https://github.com/dart-lang/pedantic).
 
 ## Usage
 
