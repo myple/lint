@@ -106,3 +106,9 @@ To indicate your project is using `myple lint`
 ```md
 [![myple lint](https://img.shields.io/static/v1?label=style&message=myple&color=blue&style=plastic)](https://pub.dev/publishers/myple.io/packages)
 ```
+
+## How to contribute
+
+If you would like to help contribute to this **GitHub** Action, please see [CONTRIBUTING](https://github.com/myple/lint/blob/main/.github/CONTRIBUTING.md)
+
+---
