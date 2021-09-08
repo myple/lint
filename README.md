@@ -8,7 +8,7 @@ Developed with ❤️ by [myple](https://myple.io)
 ---
 
 [![myple lint](https://img.shields.io/static/v1?label=style&message=myple&color=blue&style=for-the-badge)](https://pub.dev/publishers/myple.io/packages)
-![APM](https://img.shields.io/apm/l/lint?style=for-the-badge)
+[![APM](https://img.shields.io/apm/l/lint?style=for-the-badge)](https://github.com/myple/lint/blob/main/LICENSE)
 
 
 This package provides lint rules for Dart and Flutter which are used at [myple](https://myple.io). For more information, see the [complete list of options](https://github.com/myple/lint/blob/main/analysis_options.yaml).
