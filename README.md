@@ -1,15 +1,13 @@
 # myple lint
 
-
-[![Very Good Ventures](https://raw.githubusercontent.com/VeryGoodOpenSource/very_good_analysis/main/assets/vgv_logo.png)](https://myple.io)
-
 Developed with ❤️ by [myple](https://myple.io)
+
+[![myple](https://raw.githubusercontent.com/myple/material/main/logos/logo.png)](https://myple.io)
 
 ---
 
 [![myple lint](https://img.shields.io/static/v1?label=style&message=myple&color=blue&style=for-the-badge)](https://pub.dev/publishers/myple.io/packages)
 [![APM](https://img.shields.io/apm/l/lint?style=for-the-badge)](https://github.com/myple/lint/blob/main/LICENSE)
-
 
 This package provides lint rules for Dart and Flutter which are used at [myple](https://myple.io). For more information, see the [complete list of options](https://github.com/myple/lint/blob/main/analysis_options.yaml).
 
@@ -20,25 +18,25 @@ This package provides lint rules for Dart and Flutter which are used at [myple](
 To use the lints, add a dependency in your `pubspec.yaml`:
 
 ```yaml
-# If you use `package:very_good_analysis/very_good_analysis.dart`, add a normal dependency.
+# If you use `package:myple_lint/myple_lint.dart`, add a normal dependency.
 dependencies:
-  very_good_analysis: ^2.3.0
+  myple_lint: ^0.1.0-dev.2
 
 # Or, if you just want `analysis_options.yaml`, it can be a dev dependency.
 dev_dependencies:
-  very_good_analysis: ^2.3.0
+  myple_lint: ^0.1.0-dev.2
 ```
 
 Then, add an include in `analysis_options.yaml`:
 
 ```yaml
-include: package:very_good_analysis/analysis_options.yaml
+include: package:myple_lint/analysis_options.yaml
 ```
 
 This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
-include: package:very_good_analysis/analysis_options.2.3.0.yaml
+include: package:myple/analysis_options.0.1.0.yaml
 ```
 
 ## Suppressing Lints
@@ -73,7 +71,7 @@ class B {}
 To surpress a specific lint rule for an entire project, modify `analysis_options.yaml`:
 
 ```yaml
-include: package:very_good_analysis/analysis_options.yaml
+include: package:myple_lint/analysis_options.yaml
 linter:
   rules:
     public_member_api_docs: false
