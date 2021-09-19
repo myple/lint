@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.1.0
+
+- Initial stable version
+
 ## 0.1.0-dev.2
 
 - Updated analysis_options.yaml

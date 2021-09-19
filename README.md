@@ -13,31 +13,35 @@ This package provides lint rules for Dart and Flutter which are used at [myple](
 
 **Note**: This package was heavily inspired by [pedantic](https://github.com/dart-lang/pedantic).
 
+<br/>
+
 ## Usage
 
-To use the lints, add a dependency in your `pubspec.yaml`:
+1. To use the lints, add a dependency in your `pubspec.yaml`:
 
 ```yaml
 # If you use `package:myple_lint/myple_lint.dart`, add a normal dependency.
 dependencies:
-  myple_lint: ^0.1.0-dev.2
+  myple_lint: ^0.1.0
 
 # Or, if you just want `analysis_options.yaml`, it can be a dev dependency.
 dev_dependencies:
-  myple_lint: ^0.1.0-dev.2
+  myple_lint: ^0.1.0
 ```
 
-Then, add an include in `analysis_options.yaml`:
+2. Then, add an include in `analysis_options.yaml`:
 
 ```yaml
 include: package:myple_lint/analysis_options.yaml
 ```
 
-This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
+&nbsp;&nbsp;&nbsp;&nbsp; This will ensure you always use the latest version of the lints. If you wish to restrict the lint version, specify a version of `analysis_options.yaml` instead:
 
 ```yaml
 include: package:myple/analysis_options.0.1.0.yaml
 ```
+
+<br/>
 
 ## Suppressing Lints
 
@@ -77,6 +81,8 @@ linter:
     public_member_api_docs: false
 ```
 
+<br/>
+
 ## Badges
 
 To indicate your project is using `myple lint`
@@ -104,6 +110,8 @@ To indicate your project is using `myple lint`
 ```md
 [![myple lint](https://img.shields.io/static/v1?label=style&message=myple&color=blue&style=plastic)](https://pub.dev/publishers/myple.io/packages)
 ```
+
+<br/>
 
 ## How to contribute
 

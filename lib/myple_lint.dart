@@ -1,6 +1,7 @@
 /// The myple lint package doesn't ship any dart source code.
 ///
 /// To enable `myple lint`,
+/// 
 /// 1. Add it to your dev_dependencies
 /// ```yaml
 /// dev_dependencies:
