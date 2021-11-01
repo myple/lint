@@ -13,8 +13,6 @@ This package provides lint rules for Dart and Flutter which are used at [myple](
 
 **Note**: This package was heavily inspired by [pedantic](https://github.com/dart-lang/pedantic).
 
-<br/>
-
 ## Usage
 
 1. To use the lints, add a dependency in your `pubspec.yaml`:
@@ -40,8 +38,6 @@ include: package:myple_lint/analysis_options.yaml
 ```yaml
 include: package:myple/analysis_options.0.1.0.yaml
 ```
-
-<br/>
 
 ## Suppressing Lints
 
@@ -81,8 +77,6 @@ linter:
     public_member_api_docs: false
 ```
 
-<br/>
-
 ## Badges
 
 To indicate your project is using `myple lint`
@@ -110,8 +104,6 @@ To indicate your project is using `myple lint`
 ```md
 [![myple lint](https://img.shields.io/static/v1?label=style&message=myple&color=blue&style=plastic)](https://pub.dev/publishers/myple.io/packages)
 ```
-
-<br/>
 
 ## How to contribute
 
