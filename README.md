@@ -1,8 +1,6 @@
 # myple lint
 
-Developed with ❤️ by [myple](https://myple.io)
-
-[![myple](https://raw.githubusercontent.com/myple/material/main/logos/logo.png)](https://myple.io)
+[![myple](https://github.com/myple/material/blob/main/logo/light/brand-1080x320px.png)](https://myple.io)
 
 ---
 
@@ -110,3 +108,5 @@ To indicate your project is using `myple lint`
 If you would like to help contribute to this **GitHub** Action, please see [CONTRIBUTING](https://github.com/myple/lint/blob/main/.github/CONTRIBUTING.md)
 
 ---
+
+Developed with ❤️ by [myple](https://myple.io)
