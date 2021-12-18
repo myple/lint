@@ -1,5 +1,3 @@
-# myple lint
-
 [![myple](https://github.com/myple/material/blob/main/logo/light/brand-1080x320px.png)](https://myple.io)
 
 ---
